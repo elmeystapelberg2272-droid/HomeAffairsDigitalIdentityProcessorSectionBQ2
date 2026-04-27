@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAffairsDigitalIdentityProcessorSectionBQ2", "HomeAffairsDigitalIdentityProcessorSectionBQ2\HomeAffairsDigitalIdentityProcessorSectionBQ2.csproj", "{869686B0-A2DA-47F3-96CF-5A6A4FD39E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869686B0-A2DA-47F3-96CF-5A6A4FD39E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869686B0-A2DA-47F3-96CF-5A6A4FD39E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869686B0-A2DA-47F3-96CF-5A6A4FD39E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869686B0-A2DA-47F3-96CF-5A6A4FD39E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206AE96D-21B2-44F0-AD42-B48AE96F87EA}
+	EndGlobalSection
+EndGlobal
